@@ -69,7 +69,7 @@ class Uploader:
             )
             description = (
                 Config.VIDEO_DESCRIPTION
-                + "\nUploaded to YouTube with https://tx.me/youtubeitbot"
+                + "\n~ 𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘉𝘠 𝘛𝘌𝘈𝘔 𝘛𝘖𝘍𝘈𝘕𝘐"
             )[:5000]
             if not Config.UPLOAD_MODE:
                 privacyStatus = "private"
